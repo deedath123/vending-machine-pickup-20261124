@@ -2,6 +2,10 @@
 
 Writes the locked one-line pickup line to entry.txt in the output
 directory (MAKEFUN_OUTPUT_DIR, default /output), no trailing newline.
+
+Verified numbers: 137 chars, 139 bytes (one em dash), one line.
+entry.txt sha256:
+29eabbd1c39ed50fb05cffb2fa06b8831d4e2201f049756463609d0b275ba42a
 """
 
 import os
